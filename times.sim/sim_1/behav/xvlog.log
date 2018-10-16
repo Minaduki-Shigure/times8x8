@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Users/Student/times/times.srcs/sources_1/new/times.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module times
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Users/Student/times/times.srcs/sim_1/new/tb_times.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_times
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Users/Student/times/times.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
